@@ -1,4 +1,4 @@
-# Credit Risk Assessment and Portfolio Analytics System
+# Credit Risk Assessment 
 
 ## Overview
 
